@@ -15,7 +15,7 @@ const features = [
   },
   {
     icon: <Settings className="h-8 w-8 text-nnotify" />,
-    title: 'Regras personalizadas',
+    title: 'Regras',
     description: 'Defina condições de alerta e preferências de notificação adaptadas às suas necessidades.'
   },
   {
