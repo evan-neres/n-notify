@@ -39,7 +39,7 @@ const FeaturesSection = () => {
   return (
     <section id="features" className="py-20 px-6 lg:px-10">
       <div className="text-center max-w-3xl mx-auto mb-16">
-        <h2 className="text-3xl font-bold mb-4">Powerful Features</h2>
+        <h2 className="text-3xl font-bold mb-4">Recursos poderosos</h2>
         <p className="text-muted-foreground">
           O N-Notify entrega informações críticas dos seus sistemas de automação diretamente para o seu Telegram, 
           mantendo você informado onde quer que esteja.

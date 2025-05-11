@@ -9,7 +9,7 @@ const CTASection = () => {
       <div className="max-w-4xl mx-auto bg-gradient-to-br from-secondary to-secondary/50 rounded-xl p-8 lg:p-12 text-center border border-border/40">
         <div className="inline-flex items-center gap-2 px-4 py-2 bg-background/50 rounded-full mb-8">
           <Zap size={16} className="text-nnotify" />
-          <span className="text-sm">Start monitoring today</span>
+          <span className="text-sm">Comece a receber notificações hoje</span>
         </div>
         <h2 className="text-3xl font-bold mb-4">Pronto para elevar seu monitoramento de automação?</h2>
         <p className="text-muted-foreground mb-8 max-w-xl mx-auto">
