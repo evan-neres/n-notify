@@ -15,9 +15,10 @@ const Navbar = () => {
         <a href="#systems" className="text-sm text-foreground/80 hover:text-foreground transition-colors">Integrações</a>
         <a href="#cta" className="text-sm text-foreground/80 hover:text-foreground transition-colors">Contato</a>
       </div>
+      <a target="_blank" href="https://wa.me/5521981280834?text=Ol%C3%A1!%20Gostaria%20de%20experimentar%20a%20ferramenta.">
       <Button variant="outline" className="border-nnotify text-nnotify hover:bg-nnotify hover:text-foreground">
         Fale conosco
-      </Button>
+      </Button></a>
     </nav>
   );
 };

@@ -17,9 +17,10 @@ const CTASection = () => {
           Configuração simples, resultados poderosos.
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-4">
+          <a target="_blank" href="https://wa.me/5521981280834?text=Ol%C3%A1!%20Gostaria%20de%20experimentar%20a%20ferramenta.">
           <Button className="bg-nnotify hover:bg-nnotify-light text-white px-8 py-6">
             Entre em contato
-          </Button>
+          </Button></a>
         </div>
       </div>
     </section>
